@@ -1,0 +1,16 @@
+=================================================================
+=                                                               =
+=                                                               =
+= Network Scanning                                              =
+=                                                               =
+=                                                               =
+=================================================================
+Escaneo de puertos y servicios basado en red.
+Esta categoría cuenta con dos modos posibles 
+de ejecución << Manual y automático>>
+
+La elección del modo manual implica la intervención
+del usuario.
+
+Presione 1 para ejecución manual o 2 para ejecución automática
+Enter para continuar...

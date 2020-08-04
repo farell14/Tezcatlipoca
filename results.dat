@@ -1,0 +1,17 @@
+# Nmap 7.70SVN scan initiated Wed May  8 16:45:43 2019 as: nmap -Pn -n --open -sT -sV -p1433,1521,3306,27017,27018,27019,28017,5000,5001 -oN results.dat 10.30.12.0/24
+Nmap scan report for 10.30.12.100
+Host is up (0.0032s latency).
+Not shown: 8 filtered ports
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT     STATE SERVICE  VERSION
+1433/tcp open  ms-sql-s Microsoft SQL Server 2016 13.00.4001; SP1
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Nmap scan report for 10.30.12.108
+Host is up (0.0013s latency).
+Not shown: 8 closed ports
+PORT     STATE SERVICE VERSION
+3306/tcp open  mysql   MySQL 5.5.53-0+deb8u1
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed May  8 16:45:58 2019 -- 256 IP addresses (256 hosts up) scanned in 14.97 seconds

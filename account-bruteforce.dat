@@ -1,0 +1,18 @@
+=================================================================
+=                                                               =
+=                                                               =
+= Account Bruteforce                                            =
+=                                                               =
+=                                                               =
+=================================================================
+
+Ataque de fuerza bruta por medio de un diccionario
+en busca de cuentas de usuario y contraseñas por defecto
+A continuación se listan los servicios disponibles
+para la realización de la prueba.
+
+** FTP
+** SSH
+** Telnet
+
+

@@ -1,0 +1,8 @@
+https://es.slideshare.net/KatieNickels/threatbased-adversary-emulation-with-mitre-attck
+https://holisticinfosec.io/post/redhunt-linux-adversary-emulation-and-threat-hunting/
+https://www.crowdstrike.com/wp-content/brochures/CS_AdversaryEmulation_datasheet.pdf
+http://pentestit.com/adversary-emulation-tools-list/
+https://www.rsaconference.com/writable/presentations/file_upload/hta-t06_live_adversary_simulation-red_and_blue_team_tactics.pdf
+https://dl.acm.org/citation.cfm?id=3140081
+
+
